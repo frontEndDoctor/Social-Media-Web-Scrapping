@@ -1,2 +1,3 @@
 # Favcode-Project-1
-Data scrapping on Nairaland Forum
+This task inbolves scrapping Data from a popular Nigeria new blog platform called  Nairaland
+In this task, the 
